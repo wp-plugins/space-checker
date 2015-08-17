@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Space Checker
  * Plugin URI: http://prestongarrison.com
- * Description: Space Checker. The plugin that checks used and free space, and lets you know when there is no free space on the server by email.
- * Version: 1.0.0
+ * Description: Space Checker. The plugin that checks used and free space, and lets you know when there is no free space on the server by email. Prevent blog and database corruption
+ * Version: 1.0.1
  * Author: Code Orange Inc
  * Author URI: http://prestongarrison.com
  * License: GPL2
